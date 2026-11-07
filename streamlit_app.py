@@ -22,7 +22,7 @@ DOCUMENTS = {
     "ICT_Policy_2020.pdf": "https://abu.edu.ng/wp-content/uploads/2025/11/ABU-ICT-Policy-December-2020-Corrected-23-04-25.pdf",
 }
 
-DISTANCE_THRESHOLD = 1.1
+DISTANCE_THRESHOLD = 0.9
 
 
 @st.cache_resource(show_spinner="Setting up ABU-Assist (first load only, ~2-3 minutes)...")
